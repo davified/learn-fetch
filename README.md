@@ -8,15 +8,15 @@ Official `fetch` docs
 
 - set up client
   - Fork and clone repo
-  - Install dependencies: `yarn install` (`node-fetch` is the only dependency)
+  - Install dependencies: `npm install` (`node-fetch` is the only dependency)
   - `cd learn-fetch`
 
 - start server
   - [Skip if you've alr done this] `git clone https://github.com/thoughtworks-jumpstart/express_passport_mongoose_example.git`
   - `cd express_passport_mongoose_example`
-  - `yarn inlstall`
+  - `npm install`
   - `mongod`
-  - `yarn start` (this will run on port 3000)
+  - `npm start` (this will run on port 3000)
 
 ### Writing our HTTP requests using fetch
 
